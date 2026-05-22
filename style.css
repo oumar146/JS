@@ -1,0 +1,19 @@
+#number{
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.buttons button {
+    padding: 5px 5px;
+}
+
+li {
+    cursor: pointer;
+}
+.dashed{
+    text-decoration: dashed;
+}
